@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://binance-money-test.vercel.app/",
+      "permanent": true
+    }
+  ]
+}
